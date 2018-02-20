@@ -1,1 +1,0 @@
-export { LiferayServiceModule } from '/dist/liferay-service.module';

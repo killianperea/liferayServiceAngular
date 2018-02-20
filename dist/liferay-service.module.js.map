@@ -1,1 +1,0 @@
-{"version":3,"file":"liferay-service.module.js","sourceRoot":"","sources":["../src/liferay-service.module.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAAyC;AACzC,qEAA2D;AAQ3D;IAAA;IAAoC,CAAC;IAAxB,oBAAoB;QALhC,eAAQ,CAAC;YACR,OAAO,EAAE,EAAE;YACX,SAAS,EAAE,CAAC,wCAAc,CAAC;YAC3B,OAAO,EAAE,CAAC,wCAAc,CAAC;SAC1B,CAAC;OACW,oBAAoB,CAAI;IAAD,2BAAC;CAAA,AAArC,IAAqC;AAAxB,oDAAoB"}
