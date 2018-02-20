@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { LiferayService } from './liferay-service.service';
 
-NgModule({
+@NgModule({
     exports: [LiferayService]
-});
+})
 
 export class LiferayServiceModule { }
 
