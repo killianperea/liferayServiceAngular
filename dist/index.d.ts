@@ -1,1 +1,1 @@
-export * from './liferay-service.module';
+export * from './liferay-service.service';
