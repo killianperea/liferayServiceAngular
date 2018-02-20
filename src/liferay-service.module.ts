@@ -3,8 +3,8 @@ import { LiferayService } from './liferay-service.service';
 
 
 @NgModule({
-  imports: [],
-  providers: [LiferayService],
   exports: [LiferayService]
 })
 export class LiferayServiceModule { }
+
+export * from './liferay-service.service';
