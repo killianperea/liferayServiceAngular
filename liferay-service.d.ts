@@ -1,0 +1,1 @@
+declare module 'liferay-service';
