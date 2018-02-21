@@ -29,5 +29,6 @@ define(["require", "exports", "@angular/core"], function (require, exports, core
         __metadata("design:paramtypes", [])
     ], LiferayService);
     exports.LiferayService = LiferayService;
+    ;
 });
 //# sourceMappingURL=liferay-service.service.js.map
