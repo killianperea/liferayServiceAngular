@@ -15,12 +15,7 @@ define(["require", "exports", "@angular/core"], function (require, exports, core
             // nothing to do in here :) 
         }
         LiferayService.prototype.getUserLiferay = function () {
-            if (Liferay) {
-                return Liferay.ThemeDisplay.getUserName();
-            }
-            else {
-                return 'Unexpected User';
-            }
+            return 'cosa';
         };
         return LiferayService;
     }());
@@ -29,6 +24,5 @@ define(["require", "exports", "@angular/core"], function (require, exports, core
         __metadata("design:paramtypes", [])
     ], LiferayService);
     exports.LiferayService = LiferayService;
-    ;
 });
 //# sourceMappingURL=liferay-service.service.js.map
