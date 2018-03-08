@@ -8,7 +8,7 @@
   "main": "dist/liferay-service.service.js",
   "types": "dist/liferay-service.service.d.ts",
   "private": true,
-  "dependencies": {
+  "peerDependencies": {
     "@angular/core": "4.4.4"
   },
   "devDependencies": {
