@@ -5,7 +5,8 @@
   "scripts": {
     "build": "tsc"
   },
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "private": true,
   "dependencies": {
     "@angular/animations": "4.4.4",
