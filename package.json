@@ -5,13 +5,11 @@
   "scripts": {
     "build": "tsc"
   },
-  "main": "dist/bundle.amd.js",
-  "types": "dist/bundle.amd.d.ts",
+  "main": "dist/liferay-service.service.js",
+  "types": "dist/liferay-service.service.d.ts",
   "private": true,
   "dependencies": {
-    "@angular/core": "4.4.4",
-    "rxjs": "5.4.1",
-    "zone.js": "0.8.20"
+    "@angular/core": "4.4.4"
   },
   "devDependencies": {
     "@angular/cli": "1.6.7",
